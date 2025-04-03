@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo" onclick="loadHomePage()">CoffeShop</div>
+        <input type="text" placeholder="Tìm món" class="search-bar">
+        <button class="login-btn">Đăng Nhập</button>
+    </header>
+
+    <main class="content">
+        <section id="coffee">
+            <h1>Cà phê</h1>
+            <div class="categories" id="coffee-list">
+                <script src="scripts.js"></script>
+                
+            </div>
+        </section>
+
+        <section id="tea">
+            <h1>Trà</h1>
+            <div class="categories" id="tea-list">
+                <script src="scripts.js"></script>
+            </div>
+        </section>
+
+        <section id="product-detail" style="display:none;">
+            <button onclick="closeProductDetail()">Trở lại danh sách</button>
+            <h2 id="product-name"></h2>
+            <img id="product-image" src="" alt="Product Image">
+            <p id="product-description"></p>
+        </section>
+    </main>
+</body>

@@ -1,0 +1,191 @@
+{
+  "menu": {
+    "coffee": [
+      {
+        "name": "Cà phê đen",
+        "image": "cf1.jpg",
+        "description": "Cà phê đen nguyên chất, được rang xay tỉ mỉ để giữ trọn vẹn hương vị đậm đà và mạnh mẽ. Đây là lựa chọn lý tưởng cho những ai yêu thích sự tinh tế và mạnh mẽ của cà phê."
+      },
+      {
+        "name": "Cà phê sữa",
+        "image": "cf2.jpeg",
+        "description": "Cà phê đen nguyên chất hòa quyện cùng sữa đặc tạo nên một sự kết hợp hoàn hảo, mang đến hương vị ngọt ngào, béo ngậy, thích hợp cho những ai yêu thích một ly cà phê nhẹ nhàng nhưng vẫn đầy đủ hương vị."
+      },
+      {
+        "name": "Cà phê trứng",
+        "image": "cf3.jpeg",
+        "description": "Cà phê pha trứng kết hợp với sữa đặc, tạo nên một lớp bọt trứng béo ngậy, thơm lừng. Đây là một món cà phê đặc biệt với hương vị bùi béo, thích hợp cho những ai tìm kiếm sự mới lạ trong mỗi ngụm cà phê."
+      },
+      {
+        "name": "Cà phê đá xay",
+        "image": "cf4.jpg",
+        "description": "Cà phê xay nhuyễn với đá, tạo nên một ly cà phê mát lạnh, giải nhiệt trong những ngày hè oi ả. Hương vị đậm đà của cà phê kết hợp với độ lạnh của đá tạo nên một cảm giác thư giãn tuyệt vời."
+      },
+      {
+        "name": "Mocha",
+        "image": "cf5.jpg",
+        "description": "Cà phê kết hợp với chocolate đậm đà và sữa tươi ngọt ngào, mang đến một trải nghiệm hương vị béo ngậy và ngọt dịu. Mocha là lựa chọn tuyệt vời cho những ai yêu thích sự hòa quyện giữa cà phê và chocolate."
+      },
+      {
+        "name": "Cà phê caramel",
+        "image": "cf6.jpg",
+        "description": "Cà phê đen đậm đà kết hợp với sốt caramel ngọt ngào, tạo nên một ly cà phê với hương vị thơm lừng và ngọt dịu. Đây là sự lựa chọn lý tưởng cho những ai thích cà phê có thêm chút ngọt ngào."
+      },
+      {
+        "name": "Cappuchino",
+        "image": "cf7.jpg",
+        "description": "Cà phê espresso đậm đà kết hợp với bọt sữa mịn màng, tạo ra một ly cappuccino nhẹ nhàng, đầy đặn. Đây là một món cà phê hoàn hảo cho những ai yêu thích sự cân bằng giữa cà phê và sữa."
+      },
+      {
+        "name": "Latte",
+        "image": "cf8.jpg",
+        "description": "Cà phê espresso kết hợp với sữa tươi, tạo nên một ly latte với hương vị nhẹ nhàng, béo ngậy nhưng không quá ngọt. Đây là lựa chọn tuyệt vời cho những ai tìm kiếm sự mềm mại trong từng ngụm cà phê."
+      },
+      {
+        "name": "Expresso",
+        "image": "cf9.jpg",
+        "description": "Cà phê espresso đậm đà và mạnh mẽ, không có sữa, giữ nguyên hương vị tinh khiết của cà phê. Đây là món cà phê lý tưởng cho những ai yêu thích sự mạnh mẽ, tinh tế và không bị pha trộn."
+      },
+      {
+        "name": "Cà phê dừa",
+        "image": "cf10.jpg",
+        "description": "Cà phê kết hợp với sữa dừa, tạo nên một sự hòa quyện độc đáo giữa hương vị cà phê đậm đà và vị ngọt mát của dừa, mang đến một trải nghiệm thú vị và dễ chịu."
+      },
+      {
+        "name": "Cacao nóng",
+        "image": "cf11.jpg",
+        "description": "Ca cao nóng thơm ngon, được chế biến từ bột ca cao nguyên chất, mang đến một hương vị ngọt ngào và ấm áp, lý tưởng cho những ai yêu thích thức uống ngọt nhưng không quá béo."
+      },
+      {
+        "name": "Blue mountain",
+        "image": "cf12.jpg",
+        "description": "Cà phê Blue Mountain nổi tiếng với hương vị tinh tế, nhẹ nhàng nhưng đầy quyến rũ. Được trồng tại vùng núi cao, đây là loại cà phê có hương vị độc đáo, phù hợp cho những ai muốn thưởng thức sự khác biệt."
+      }
+    ],
+
+
+
+    "tea" :[
+      {
+        "name": "Trà xanh",
+        "image": "traxanh.jpg",
+        "description": "Trà xanh nguyên chất, mang đến vị thanh mát, nhẹ nhàng, đầy sức sống. Trà xanh giàu chất chống oxy hóa, giúp bảo vệ sức khỏe và duy trì làn da trẻ trung."
+      },
+      {
+        "name": "Trà đen",
+        "image": "traden.jpg",
+        "description": "Trà đen có hương vị đậm đà, chứa nhiều caffeine, giúp tăng cường sự tỉnh táo và năng lượng. Đây là lựa chọn lý tưởng cho những ai cần một thức uống mạnh mẽ, tạo động lực suốt cả ngày."
+      },
+      {
+        "name": "Trà ô long",
+        "image": "olong.jpg",
+        "description": "Trà ô long có hương thơm nhẹ nhàng, vị thanh dịu nhưng vẫn giữ được sự đậm đà, giúp thư giãn tinh thần. Đây là loại trà mang đến sự cân bằng tuyệt vời giữa trà xanh và trà đen."
+      },
+      {
+        "name": "Trà trắng",
+        "image": "trtrang.jpg",
+        "description": "Trà trắng tinh khiết, nhẹ nhàng và giàu chất chống oxy hóa, giúp thanh lọc cơ thể và duy trì sức khỏe. Trà trắng là sự lựa chọn hoàn hảo cho những ai yêu thích một thức uống nhẹ nhàng, thanh thoát."
+      },
+      {
+        "name": "Trà nhãn",
+        "image": "tranhan.jpg",
+        "description": "Trà từ các loại hoa và thảo mộc thiên nhiên, mang đến một sự hòa quyện nhẹ nhàng, không chứa caffeine, giúp thư giãn và giải stress hiệu quả."
+      },
+      {
+        "name": "Trà matcha",
+        "image": "matcha.jpg",
+        "description": "Bột trà xanh Nhật Bản với hương vị đắng nhẹ và đậm đà, giàu dinh dưỡng, cung cấp năng lượng bền vững. Đây là loại trà được yêu thích nhờ vào lợi ích sức khỏe tuyệt vời và vị đậm đà khó quên."
+      },
+      {
+        "name": "Trà bạc hà",
+        "image": "bacha.jpg",
+        "description": "Trà xanh kết hợp với bạc hà tươi mát, mang lại cảm giác thư giãn và làm mát cơ thể. Đây là món trà lý tưởng trong những ngày hè nóng bức."
+      },
+      {
+        "name": "Trà chanh",
+        "image": "trachanh.jpg",
+        "description": "Trà chanh tươi mát, vị chua nhẹ giúp giải nhiệt hiệu quả, đồng thời tăng cường sức đề kháng cho cơ thể. Đây là lựa chọn tuyệt vời cho những ai muốn thưởng thức sự tươi mới trong mỗi ngụm trà."
+      },
+      {
+        "name": "Trà đào",
+        "image": "tradao.jpg",
+        "description": "Trà ô long kết hợp với hương đào ngọt ngào, mang lại cảm giác thư giãn nhẹ nhàng và ngọt ngào. Đây là sự lựa chọn lý tưởng cho những ai yêu thích sự kết hợp giữa trà và trái cây."
+      },
+      {
+        "name": "Trà hoa cúc",
+        "image": "hoacuc.png",
+        "description": "Trà hoa cúc có tác dụng giúp giảm căng thẳng, cải thiện giấc ngủ và tạo cảm giác thư giãn tối ưu. Đây là thức uống tuyệt vời để giúp bạn thư giãn sau một ngày dài."
+      },
+      {
+        "name": "Trà nhài",
+        "image": "nhai.jpg",
+        "description": "Trà đen kết hợp với hoa nhài, tạo nên một thức uống thơm ngát, béo ngậy và dễ chịu. Đây là món trà dễ uống, thích hợp cho những ai yêu thích sự nhẹ nhàng nhưng đầy quyến rũ."
+      },
+      {
+        "name": "Trà hoa hồng",
+        "image": "hoahong.jpg",
+        "description": "Trà từ cánh hoa hồng, có hương thơm quyến rũ, giúp làm dịu tâm hồn và mang đến sự thư giãn tuyệt vời. Đây là loại trà được yêu thích bởi vẻ đẹp và hương thơm thanh khiết."
+      },
+      {
+        "name": "Trà gừng mật ong",
+        "image": "gung.jpg",
+        "description": "Trà gừng kết hợp mật ong giúp giữ ấm cơ thể, hỗ trợ tiêu hóa và tăng cường sức đề kháng. Đây là lựa chọn tuyệt vời cho những ai cần một thức uống ấm áp và đầy dinh dưỡng."
+      },
+      {
+        "name": "Trà quế",
+        "image": "que.jpg",
+        "description": "Trà quế có vị cay nồng, giúp cải thiện tuần hoàn máu, tăng cường sức khỏe và năng lượng cho cơ thể. Đây là món trà tuyệt vời giúp bạn cảm thấy ấm áp trong mùa đông lạnh giá."
+      },
+      {
+        "name": "Trà dâu tằm",
+        "image": "dautam.png",
+        "description": "Trà từ lá dâu tằm, với vị ngọt nhẹ và nhiều lợi ích sức khỏe. Trà dâu tằm giúp cải thiện làn da và hỗ trợ hệ miễn dịch hiệu quả."
+      },
+      {
+        "name": "Trà atiso",
+        "image": "atiso.jpg",
+        "description": "Trà atiso giúp thanh nhiệt, giải độc gan và hỗ trợ hệ tiêu hóa. Đây là thức uống tuyệt vời cho những ai muốn thanh lọc cơ thể và duy trì sức khỏe."
+      },
+      {
+        "name": "Trà sen",
+        "image": "trasen.jpg",
+        "description": "Trà sen có hương thơm nhẹ nhàng, thanh khiết, giúp giảm căng thẳng và mang lại cảm giác thư giãn tối ưu. Đây là một trong những thức uống thanh tao và dễ chịu."
+      },
+      {
+        "name": "Trà khổ qua",
+        "image": "khoqua.jpg",
+        "description": "Trà từ mướp đắng, giúp ổn định đường huyết và cải thiện sức khỏe tổng thể. Đây là lựa chọn tuyệt vời cho những ai đang tìm kiếm một thức uống hỗ trợ sức khỏe lâu dài."
+      },
+      {
+        "name": "Trà lúa mạch",
+        "image": "luamach.jpg",
+        "description": "Trà từ hạt lúa mạch, với hương thơm dịu nhẹ và nhiều lợi ích sức khỏe. Đây là một thức uống giúp thanh lọc cơ thể và bổ sung dinh dưỡng tự nhiên."
+      },
+      {
+        "name": "Trà hoa đậu biếc",
+        "image": "daubiec.jpg",
+        "description": "Trà hoa đậu biếc có màu xanh tím đẹp mắt, mang lại sự thư giãn, đồng thời giàu chất chống oxy hóa, giúp làm đẹp da và duy trì sức khỏe."
+      },
+      {
+        "name": "Trà dâu tây",
+        "image": "dautay.jpg",
+        "description": "Trà dâu tây kết hợp với hương vị tươi mới, vị chua nhẹ và ngọt dịu, rất phù hợp cho những ai yêu thích trái cây và sự tươi mát."
+      },
+      {
+        "name": "Trà việt quất",
+        "image": "vietquat.jpg",
+        "description": "Trà việt quất có vị ngọt thanh, giàu vitamin C."
+      },
+      {
+        "name": "Trà mâm xôi",
+        "image": "mamxoi.jpg",
+        "description": "Trà kết hợp mâm xôi, có hương vị đậm đà."
+      },
+      {
+        "name": "Trà sả",
+        "image": "traxa.jpg",
+        "description": "Trà sả giúp thanh lọc cơ thể và thư giãn."
+      }
+    ]
+  }
+}
